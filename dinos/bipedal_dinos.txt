@@ -1,0 +1,6 @@
+NAME, SPEED
+Struthiomimus, 1.918448447168817
+Velociraptor, 1.913333333333333
+Deinonychus, 1.11
+Hadrosaurus, -0.2645751311064585
+Tyrannosaurus Rex, -2.136513335031923
